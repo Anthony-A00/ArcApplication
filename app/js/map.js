@@ -84,7 +84,7 @@ require([
                 }
                 else
                 {
-                    alert('Invalid Credentials!');
+                    alert('City not found!');
                 }
             },
             function()
